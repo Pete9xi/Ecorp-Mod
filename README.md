@@ -14,7 +14,8 @@ For more information about Hacknet, go to the official website at http://hacknet
 
 ### Installation
 
- Simply copy Content/ to Hacknet/ root folder
+ _ Simply copy Content/ to Hacknet/ root folder.
+ _ Choose between English (Ecorp) and French (EcorpFR) version of the mod.
 
 # Development
 
